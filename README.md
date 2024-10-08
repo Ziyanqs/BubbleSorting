@@ -1,5 +1,5 @@
 # BubbleSorting
-<p>This sorting code using bubble method to sort out number in Descending and Ascending order</p>
+<p>This sorting code using bubble method to sort out number in Descending and Ascending order. It also shows each step while sorting.</p>
 
 [Ziyanqs/BubbleSorting](https://github.com/Ziyanqs/BubbleSorting)
 
